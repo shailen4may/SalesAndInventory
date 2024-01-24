@@ -7,6 +7,7 @@ public class InventoryTest {
 	public void inventoryTest()
 	{
 		System.out.println("Inventory successful");
+		System.out.println("hi");
 	}
 
 }
